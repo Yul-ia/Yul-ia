@@ -1,10 +1,14 @@
 ## Hi there, I'm Yuri 👋
+<br> <div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=6000&pause=4000&color=20232A&center=true&vCenter=true&random=false&width=435&height=40&lines=I%E2%80%99m+currently+learning+AI+%26+BigData+)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=17&duration=7000&pause=3000&color=20232A&center=true&vCenter=true&random=false&width=435&height=17&lines=using+Python)](https://git.io/typing-svg)
+<br>
 
 <!--progile 
 #3AFCF4 : marine
 -->
-<div align="center">
+  
 <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yul-ia&theme=react-dark&bg_color=20232a&hide_border=true&line=D6C9FC&color=D6C9FC" width=98%/>
