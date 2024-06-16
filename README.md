@@ -1,9 +1,16 @@
-## Hi there, I'm Yuri 👋
+# Hello, I'm Yuri
 <br> <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=27&duration=6000&pause=4000&color=20232A&center=true&vCenter=true&random=false&width=435&height=40&lines=I%E2%80%99m+currently+learning+AI+%26+BigData+)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=17&duration=7000&pause=3000&color=20232A&center=true&vCenter=true&random=false&width=435&height=17&lines=using+Python)](https://git.io/typing-svg)
 <br>
+
+
+### I’m interested in all things data,
+
+particularly in fields such as climatology🌏, meteorology🌦️, oceanography🐬, 
+
+and environmental science🪸, where **multi-dimensional data is commonly stored.**
 
 <!--progile 
 #3AFCF4 : marine
