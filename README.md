@@ -10,8 +10,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yul-ia&theme=react-dark&bg_color=20232a&hide_border=true&line=D6C9FC&color=D6C9FC" width=98%/>
 </a>
 <br>
-
-</div>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYul-ia%2Fhit-counter&count_bg=%23D6C9FC&title_bg=%23555555&icon=git.svg&icon_color=%23E7E7E7&title=see&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 
 <!--
