@@ -6,11 +6,19 @@
 <br>
 
 
-### I’m interested in all things data,
+### I am a researcher focusing on the Earth’s climate syste
 
-particularly in fields such as climatology🌏, meteorology🌦️, oceanography🐬, 
+## 🔬 Research Interests
+- Hydrological cycle  
+- Climate variability and change  
+- Atmosphere–ocean interactions  
+- Energy budget analysis  
 
-and environmental science🪸, where **multi-dimensional data is commonly stored.**
+## 🧪 Current Work
+- Diagnosing atmospheric energy budget using reanalysis (e.g., ERA5)  
+- Comparing observation-based estimates with CMIP6 simulations
+-  Seasonal prediction over the Korean Peninsula
+
 
 <!--progile 
 #3AFCF4 : marine
