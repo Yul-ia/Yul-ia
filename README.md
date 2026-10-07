@@ -12,13 +12,13 @@
 ## 🔬 Research Interests
 - Hydrological cycle  
 - Climate variability and change  
-- Atmosphere–ocean interactions  
+- Atmosphere-ocean interactions  
 - Energy budget analysis  
 
 ## 🧪 Current Work
 - Diagnosing atmospheric energy budget using reanalysis (e.g., ERA5)  
 - Comparing observation-based estimates with CMIP6 simulations
--  Seasonal prediction over the Korean Peninsula
+- Seasonal prediction over the Korean Peninsula
 
 
 <!--progile 
