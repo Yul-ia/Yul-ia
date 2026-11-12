@@ -28,19 +28,7 @@
 <!-- Profile README -->
 <!-- Marine color: #3AFCF4 -->
 
-<br>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yul-ia&theme=react-dark&bg_color=20232a&hide_border=true&line=D6C9FC&color=D6C9FC" width="98%" alt="GitHub Activity Graph">
-</a>
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Yul-ia&color=blueviolet&style=flat)
-
-
-
--->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yul-ia&theme=react-dark)
  <!-- 
 <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
