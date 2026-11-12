@@ -30,20 +30,10 @@
 
 
 <!-- GitHub Contribution Graph -->
-<br>
-
-<a href="https://github.com/Yul-ia">
-  <img src="https://ghchart.rshah.org/D6C9FC/Yul-ia" width="98%" alt="GitHub Contributions"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Yul-ia">
-  <img src="https://komarev.com/ghpvc/?username=Yul-ia&label=see&color=D6C9FC&style=flat" alt="Profile Views"/>
-</a>
 
 
-<!--
+
+<!-- 그래프
 <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yul-ia&theme=react-dark&bg_color=20232a&hide_border=true&line=D6C9FC&color=D6C9FC" width=98%/>
